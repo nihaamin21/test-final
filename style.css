@@ -1,0 +1,63 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #fafafa;
+}
+
+.navbar{
+    width: 100%;
+    display: flex;
+}
+.navbar-light .navbar-brand {
+    font-size: 19px;
+    color: #e21234;
+}
+
+.flags{
+    display: flex;
+}
+
+.card{
+    display: flex;
+}
+
+h1{
+    font-size: 20px;
+    padding: 15px;
+}
+
+#some-question{
+    border: 1px solid #9a9da0;
+    background-color: #4CAF50;
+    font-size: 16px;
+    padding: 8px;
+    width: 232px;
+    height: 40px;
+}
+
+.flower-img{
+    width: 100%;
+    height: 250px;
+}
+
+.date-tech{
+    border: 1px solid #9a9da0;
+    width: 100%;
+    height: 60px;
+    display: flex;
+}
+
+.h6, h6 {
+    font-size: 16px;
+    padding-right: 46px
+}
+
+.para{
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+}
+/* Write all your CSS here! */
